@@ -8,19 +8,6 @@ A modern, interactive web platform designed to help developers master Git and Gi
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.3.6-38bdf8)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Sections](#sections)
-- [Authentication](#authentication)
-- [Quiz](#quiz)
-- [Responsive Design](#responsive-design)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## ✨ Features
 
@@ -146,8 +133,9 @@ Quiz Features
 <div align="center">
   <img src="./git.png" alt="GitMaster Dashboard" width="800"/>
   <br/>
-  <em>GitMaster Learning Platform - Dark Theme Dashboard</em>
+  <em>GitMaster Learning Platform </em>
 </div>
+
 
 
 Project Link: https://git-masters.netlify.app/
