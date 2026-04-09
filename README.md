@@ -9,6 +9,8 @@ A modern, interactive web platform designed to help developers master Git and Gi
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 
+Project Link: https://git-masters.netlify.app/
+
 ## ✨ Features
 
 ### 📚 Comprehensive Learning Sections
@@ -138,5 +140,5 @@ Quiz Features
 
 
 
-Project Link: https://git-masters.netlify.app/
+
 
